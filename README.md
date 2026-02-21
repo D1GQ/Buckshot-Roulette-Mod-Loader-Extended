@@ -31,6 +31,14 @@ The mod loader recognizes two folders:
 - `mods` - Place your mod folders or archives here
 - `mods-unpacked` - For manually extracted mods
 
+## Mods
+- [Smarter Dealer](https://github.com/ITR13/BuckshotRouletteMods)
+- [Challenge Pack](https://github.com/StarPandaBeg/ChallengePack)
+- [FullCustomizer](https://github.com/MSLaFaver/BuckshotRouletteMods/releases)
+- [KeyboardShortcuts](https://github.com/MSLaFaver/BuckshotRouletteMods/releases)
+- [VirtualReality](https://github.com/MSLaFaver/BuckshotRouletteMods/releases)
+- [Native Resolution](https://github.com/EmK530/BRMods)
+
 Mods load automatically on startup.
 
 ---
