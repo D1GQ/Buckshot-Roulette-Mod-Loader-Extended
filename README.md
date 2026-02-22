@@ -1,8 +1,10 @@
 # Buckshot Roulette Mod Loader Extended (BRML-E)
+A mod loader for **Buckshot Roulette**
+---
+<img width="1920" height="1080" alt="title-screen" src="/assets/TitleScreen.png" />
+<img width="1920" height="1080" alt="mod-list" src="/assets/ModList.png" />
 
-A mod loader for **Buckshot Roulette (Steam version only)**.
-
-This is the [godot-mod-loader](https://github.com/GodotModding/godot-mod-loader) patched into the Steam version of Buckshot Roulette. Drop mods in a folder and they load.
+This is the [Godot Mod Loader](https://github.com/GodotModding/godot-mod-loader) patched into Buckshot Roulette. Drop mods in a folder and they load.
 
 ## Downloads
 Each release includes:
