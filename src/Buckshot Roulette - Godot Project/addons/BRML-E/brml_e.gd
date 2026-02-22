@@ -6,8 +6,8 @@ var mod_menu = null
 var menu_button = null
 var mod_store = null
 
-const ModButtonScript = preload("res://addons/BRMLE/mod_button.gd")
-const ModListMenuScript = preload("res://addons/BRMLE/mod_list_menu.gd")
+const ModButtonScript = preload("res://addons/BRML-E/mods_button.gd")
+const ModListMenuScript = preload("res://addons/BRML-E/mods_list_menu.gd")
 
 func _ready():
 	print("Mod List loaded - waiting for menu")
